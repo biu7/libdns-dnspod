@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	dnspod "github.com/libdns/dnspod"
+	dnspod "github.com/biu7/libdns-dnspod"
 
 	"github.com/libdns/libdns"
 )
